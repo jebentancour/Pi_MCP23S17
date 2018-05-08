@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-from BDN_MCP23S17 import MCP23S17
+from Pi_MCP23S17 import MCP23S17
 import time
 
 mcp1 = MCP23S17(ce=1)
